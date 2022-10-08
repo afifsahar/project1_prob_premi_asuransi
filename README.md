@@ -1,6 +1,7 @@
 # Project 1 : Analisis Premi Asuransi
 
-Youtube Link
-part 1 : 
-part 2 : 
-part 3 : 
+Youtube Youtube
+
+[Part 1](https://youtu.be/fjwYBLdUm_8)
+[Part 2](https://youtu.be/VZCtdmWGLOg)
+[Part 3](https://youtu.be/57JX-tB9wfw)
